@@ -1,2 +1,2 @@
 # line_bot_test
-test
+test(これはbranchのreadmeです。）
